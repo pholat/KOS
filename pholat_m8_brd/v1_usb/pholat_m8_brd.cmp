@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = sob, 21 wrz 2013, 20:14:36
+
+BeginCmp
+TimeStamp = /52001D4B;
+Reference = C1;
+ValeurCmp = 0,33uF;
+IdModule  = c_elec_4x5.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /52001FC8;
+Reference = C5;
+ValeurCmp = 0,1uF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52000E53;
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52000F74;
+Reference = C9;
+ValeurCmp = 27Pf;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52000F83;
+Reference = C10;
+ValeurCmp = 27pF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /520013BB;
+Reference = C11;
+ValeurCmp = C;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /520959E4;
+Reference = D12;
+ValeurCmp = 3.3V;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /520959DE;
+Reference = D13;
+ValeurCmp = 3.3V;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52001434;
+Reference = FB1;
+ValeurCmp = 10uH;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52000E35;
+Reference = IC1;
+ValeurCmp = ATMEGA8-AI;
+IdModule  = TQFP32;
+EndCmp
+
+BeginCmp
+TimeStamp = /522DC635;
+Reference = P1;
+ValeurCmp = CONN_5;
+IdModule  = USB_MINI_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /523DEA56;
+Reference = P2;
+ValeurCmp = CONN_10;
+IdModule  = ISP_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /52001A11;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /520024E1;
+Reference = P15;
+ValeurCmp = CONN_4X2;
+IdModule  = pin_array_4x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52008A24;
+Reference = R1;
+ValeurCmp = 1k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52000E44;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52080F72;
+Reference = R15;
+ValeurCmp = 68;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52080F7F;
+Reference = R16;
+ValeurCmp = 68;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5207FAEF;
+Reference = R17;
+ValeurCmp = 2.2k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5200161B;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /523DE282;
+Reference = U1;
+ValeurCmp = LD1117;
+IdModule  = sot223-ldo;
+EndCmp
+
+BeginCmp
+TimeStamp = /52000F3F;
+Reference = X1;
+ValeurCmp = QUARTZCMS4;
+IdModule  = quartz;
+EndCmp
+
+EndListe

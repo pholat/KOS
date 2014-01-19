@@ -1,0 +1,37 @@
+PCBNEW-LibModule-V1  wto, 13 sie 2013, 10:31:01
+# encoding utf-8
+Units mm
+$INDEX
+quartz
+$EndINDEX
+$MODULE quartz
+Po 0 0 0 15 5209EE86 00000000 ~~
+Li quartz
+Cd my footprint 4 quartz
+Kw quartz
+Sc 0
+AR /52000F3F
+Op 0 0 0
+At VIRTUAL
+T0 1.27 -4.572 1.524 1.524 0 0.2032 N V 21 N "X1"
+T1 2.18186 4.191 1.524 1.524 0 0.2032 N V 21 N "QUARTZCMS4"
+DS -1.27 -2.54 3.81 -2.54 0.254 21
+DS -1.27 2.54 3.81 2.54 0.254 21
+DA -1.27 0 -1.27 2.54 1800 0.254 21
+DA 3.81 0 3.81 -2.54 1800 0.254 21
+$PAD
+Sh "1" C 1.778 1.778 0 0 0
+Dr 0.79756 0 0
+At STD N 00A8FFFF
+Ne 1 "N-0000054"
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "3" C 1.778 1.778 0 0 0
+Dr 0.79756 0 0
+At STD N 00A8FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$EndMODULE quartz
+$EndLIBRARY
